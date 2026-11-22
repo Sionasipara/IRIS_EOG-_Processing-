@@ -1,4 +1,4 @@
-# Project IRIS — EOG Activity Classification
+# EOG Activity Classification
 
 ## Overview
 
